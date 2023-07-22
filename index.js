@@ -61,6 +61,54 @@ const songs = [
         cover: 'assets/8.jpg',
         artist: 'BigDaddy',
     },
+    {
+        path: 'assets/9.mp3',
+        displayName: 'Anh Là Ai?',
+        cover: 'assets/9.jpg',
+        artist: 'Huỳnh Công Hiếu & DT Tập Rap',
+    },
+    {
+        path: 'assets/10.mp3',
+        displayName: 'Baby Gọi Cho Anh',
+        cover: 'assets/10.jpg',
+        artist: 'CAPTAIN & UMIE',
+    },
+    {
+        path: 'assets/11.mp3',
+        displayName: 'Chê Hộ',
+        cover: 'assets/11.jpg',
+        artist: 'Wxrdie, Gill & Lucin3x',
+    },
+    {
+        path: 'assets/12.mp3',
+        displayName: 'Tam Giác',
+        cover: 'assets/12.jpg',
+        artist: 'Anh Phan ft. Low G & Larria',
+    },
+    {
+        path: 'assets/13.mp3',
+        displayName: 'À Lôi',
+        cover: 'assets/13.jpg',
+        artist: 'Double2T x Masew',
+    },
+    {
+        path: 'assets/14.mp3',
+        displayName: 'Ngủ một mình',
+        cover: 'assets/14.jpg',
+        artist: 'hieuthuhai ft. negav',
+    },
+    {
+        path: 'assets/15.mp3',
+        displayName: 'Bản nhạc buồn',
+        cover: 'assets/15.jpg',
+        artist: 'Bray',
+    },
+    {
+        path: 'assets/16.mp3',
+        displayName: 'Thích quá rùi nà',
+        cover: 'assets/16.jpg',
+        artist: 'tlinh ft. Trung Trần',
+    },
 
 ];
 
